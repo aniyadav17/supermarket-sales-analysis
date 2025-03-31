@@ -47,6 +47,12 @@ The table above show ratings between “Member male and female” and “Normal 
 </p>
 Electronic accessories have the highest sales, and health and beauty have the lowest sales.
 
+## Sales across Branch & Region
+<p align="center">
+    <img src="https://github.com/aniyadav17/supermarket-sales-analysis/blob/main/Sales_by_branch_&_region.png" width="600">
+</p>
+From the chart above Eastern region  has the highest Sales.
+
 
 
 
