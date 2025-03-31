@@ -55,6 +55,17 @@ Excel Features Used
 - Consumer Segmentation: Examine consumer behavior to pinpoint discrete groups and comprehend their shopping habits.
 - Product Performance: Assess each category’s performance to determine which products are the greatest sellers and which ones are not.
 - Geographical Analysis: Look at sales figures in various areas to see possible opportunities or problems in the industry.
+## Sales Analysis
+<p align="center">
+    <img src="https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/Dataset/mock%20up%20dashboard_atliq%20grands.png" width="600">
+</p>
+The line chart depicts the sales statistics over three months.
+
+January begins with a high of approximately $116,000.
+There is a considerable dip in February, at slightly over $97,000.
+Sales increased again in March, reaching nearly $109,000.
+
+
 
 
 
