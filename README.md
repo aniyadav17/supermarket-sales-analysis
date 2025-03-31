@@ -30,9 +30,9 @@ January begins with a high of approximately $116,000.
 There is a considerable dip in February, at slightly over $97,000.
 Sales increased again in March, reaching nearly $109,000.
 ## Payment Analysis
-From the table below the dataset shows a higher usage of E-wallets than conventional payment options.
+From the table below the dataset shows a higher usage of Orange Money than conventional payment options.
 <p align="center">
-    <img src="https://github.com/aniyadav17/supermarket-sales-analysis/blob/main/Sales_Analysis.png" width="600">
+    <img src="https://github.com/aniyadav17/supermarket-sales-analysis/blob/main/Payment_Analysis.png" width="600">
 </p>
 
 
