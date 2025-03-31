@@ -34,10 +34,15 @@ From the table below the dataset shows a higher usage of Orange Money than conve
 <p align="center">
     <img src="https://github.com/aniyadav17/supermarket-sales-analysis/blob/main/Payment_Analysis.png" width="600">
 </p>
+
 ## Customer Satisfaction
 <p align="center">
     <img src="https://github.com/aniyadav17/supermarket-sales-analysis/blob/main/Customer_Satisfaction.png" width="600">
 </p>
+The table above show ratings between “Member male and female” and “Normal male and female”
+
+## Product line Analysis
+Electronic accessories have the highest sales, and health and beauty have the lowest sales.
 
 
 
