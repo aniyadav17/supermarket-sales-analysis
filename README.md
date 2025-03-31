@@ -34,7 +34,10 @@ From the table below the dataset shows a higher usage of Orange Money than conve
 <p align="center">
     <img src="https://github.com/aniyadav17/supermarket-sales-analysis/blob/main/Payment_Analysis.png" width="600">
 </p>
-
+## Customer Satisfaction
+<p align="center">
+    <img src="https://github.com/aniyadav17/supermarket-sales-analysis/blob/main/Customer_Satisfaction.png" width="600">
+</p>
 
 
 
