@@ -53,6 +53,12 @@ Electronic accessories have the highest sales, and health and beauty have the lo
 </p>
 From the chart above Eastern region  has the highest Sales.
 
+## Dashboard
+<p align="center">
+    <img src="https://github.com/aniyadav17/supermarket-sales-analysis/blob/main/Dashboard.png" width="600">
+</p>
+
+
 ## Key Insights  
 - **Sales Trends:** Identified peak sales period is January following by March.  
 - **Top-Selling Products:** Determined the most popular products is Electronics accessories based on sales volume and revenue.  
