@@ -22,7 +22,7 @@ Excel Features Used
 - Geographical Analysis: Look at sales figures in various areas to see possible opportunities or problems in the industry.
 ## Sales Analysis
 <p align="center">
-    <img src="https://github.com/aniyadav17/supermarket-sales-analysis/blob/main/Sales_Analysis.png" width="600">
+    <img src="https://github.com/aniyadav17/supermarket-sales-analysis/blob/main/resources/Sales_Analysis.png" width="600">
 </p>
 The line chart depicts the sales statistics over three months.
 
