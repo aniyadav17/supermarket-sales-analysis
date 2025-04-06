@@ -37,25 +37,25 @@ From the table below the dataset shows a higher usage of Orange Money than conve
 
 ## Customer Satisfaction
 <p align="center">
-    <img src="https://github.com/aniyadav17/supermarket-sales-analysis/blob/main/Customer_Satisfaction.png" width="600">
+    <img src="https://github.com/aniyadav17/supermarket-sales-analysis/blob/main/resources/Customer_Satisfaction.png" width="600">
 </p>
 The table above show ratings between “Member male and female” and “Normal male and female”
 
 ## Product line Analysis
 <p align="center">
-    <img src="https://github.com/aniyadav17/supermarket-sales-analysis/blob/main/Product_Line_Analysis.png" width="600">
+    <img src="https://github.com/aniyadav17/supermarket-sales-analysis/blob/main/resources/Product_Line_Analysis.png" width="600">
 </p>
 Electronic accessories have the highest sales, and health and beauty have the lowest sales.
 
 ## Sales across Branch & Region
 <p align="center">
-    <img src="https://github.com/aniyadav17/supermarket-sales-analysis/blob/main/Sales_by_branch_&_region.png" width="600">
+    <img src="https://github.com/aniyadav17/supermarket-sales-analysis/blob/main/resources/Sales_by_branch_%26_region.png" width="600">
 </p>
 From the chart above Eastern region  has the highest Sales.
 
 ## Dashboard
 <p align="center">
-    <img src="https://github.com/aniyadav17/supermarket-sales-analysis/blob/main/Dashboard.png" width="600">
+    <img src="https://github.com/aniyadav17/supermarket-sales-analysis/blob/main/resources/Dashboard.png" width="600">
 </p>
 
 
